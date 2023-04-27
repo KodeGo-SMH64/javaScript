@@ -49,5 +49,15 @@ const person = {
     person.name = "Alden";
     person.email = "ryan@gmail.com";
     console.log(person);
-    
+
+    // Declare multiple value at once
+    let a, b, c;
+
+    const d = 10,
+    e = 20,
+    f = 30;
+    console.log(a);
+    console.log(d);
+    console.log(e);
+
 
